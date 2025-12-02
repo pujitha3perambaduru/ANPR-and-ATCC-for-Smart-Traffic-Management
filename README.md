@@ -1,4 +1,4 @@
-# 🚦 AI-Powered ANPR & Helmet Detection System
+# 🚦 ANPR and ATCC for Smart Traffic Management
 
 An AI-based smart traffic surveillance system integrating **Automatic Number Plate Recognition (ANPR)** and **Helmet & Triple Riding Detection** using **YOLOv8, OpenCV, and Tesseract OCR**. The system monitors traffic from videos, images, or live webcam feeds and logs traffic violations in real-time.
 
